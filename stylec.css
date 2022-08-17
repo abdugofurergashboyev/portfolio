@@ -138,6 +138,7 @@ body {
 
 .main_right img {
     border-radius: 50%;
+    
 }
 
 
@@ -148,6 +149,8 @@ body {
 .footer code {
     color: #fff;
     font-size: 22px;
+
+
 }
 
 .footer ul {
@@ -166,6 +169,8 @@ body {
 .footer ul li a {
     color: #fff;
     opacity: 0.3;
+
+
 }
 .footer li:hover{
     box-shadow: rgba(255, 255, 255, 0.35) 0px 5px 10px
